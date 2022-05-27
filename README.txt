@@ -1,4 +1,5 @@
-This whole package was made to be able to farm levels for crafted weapons while being afk.
+This whole package was made to be able to farm levels for crafted weapons while being afk. This requires you to have Autohotkey installed. 
+It can be downloaded here: https://www.autohotkey.com/
 
 Preparation to use any of the scripts:
 -Set game to fullscreen or windowed fullscreen
@@ -14,7 +15,6 @@ Preparation to use any of the scripts:
 -Make sure you have raid banners
 
 To setup the farm go to the "How to use" file
-This farming method will work extremely poorly with fusion rifles, linear fusion rifles, swords.
-If I ever make scripts for those they will be posted here: https://github.com/Grisolent
+If I ever make updates to the scripts/package it will posted here: https://github.com/Grisolent
 
 This whole package was created by Grisolent
