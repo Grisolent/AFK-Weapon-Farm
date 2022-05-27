@@ -1,0 +1,7 @@
+Here are some things which can potentially allow the scripts to work if you are issues:
+-Make sure you have exactly followed the steps in "README" and "How to use"
+-Turn off all your monitors except the one running Destiny
+-If the script is starting before you respawn after the first cycle: Right Click the script you are using. Select "Edit Script". Scroll down to the last lines of the script. Replace the 28000 by 30000 instead then save the script and try runnning it. If the script is still starting before the second cycle go back to edit the script and increase the number by 5000 and keep repeating until it works.
+-Make sure your monitor is turned on.
+-Cap your frames to 60
+-If your mouse Left Click button is bound to another function than normal click, undo it.

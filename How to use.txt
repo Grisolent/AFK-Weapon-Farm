@@ -1,0 +1,17 @@
+Equip the weapon you want to level up + a rocket launcher. 
+If you are using a heavy weapon equip mountaintop instead as the second weapon.
+If you are using a weapon that can slot the "Full Auto Retrofit" mod, slot it in.
+Launch the autohotkey script that best corresponds the type of weapon you are leveling up.
+
+Load up a Shuro Chi checkpoint.
+Start the encounter and die.
+Once the wipescreen is over and you have respawned press "9".
+Enjoy
+The script will run for as long as you don't press "0" which will stop the script.
+
+It takes ≈2h to level up a weapon to level 16 using these scripts.
+The only weapon type that the scripts works badly with is very low stability snipers.
+The only weapon types that aren't covered by the scripts are non-heavy GLs and I can't be bothered to make one for them.
+
+If you have any issues with the script head to the "Troubleshooting" file.
+
