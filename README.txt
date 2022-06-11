@@ -17,4 +17,6 @@ Preparation to use any of the scripts:
 To setup the farm go to the "How to use" file
 If I ever make updates to the scripts/package it will posted here: https://github.com/Grisolent
 
-This whole package was created by Grisolent
+There is a script for every weapon type except glaives because fuck glaives.
+
+This entire package was created by Grisolent
