@@ -22,7 +22,7 @@ Loop
 	Send, {w up}
 	MouseMove, 0, 300, 5, R
 	Send, f
-	sleep 500
+	sleep 1500
 	MouseMove, 0, 1, 50, R
 	Loop 5
 	{
